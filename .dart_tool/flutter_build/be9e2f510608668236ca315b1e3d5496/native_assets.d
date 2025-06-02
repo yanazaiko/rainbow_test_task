@@ -1,0 +1,1 @@
+ /Users/zaiko/StudioProjects/rainbow_test_task/.dart_tool/flutter_build/be9e2f510608668236ca315b1e3d5496/native_assets.yaml: 
